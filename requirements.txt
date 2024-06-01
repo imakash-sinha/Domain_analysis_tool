@@ -1,0 +1,4 @@
+# requirements.txt
+dnspython
+python-whois
+pyopenssl
